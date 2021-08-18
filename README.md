@@ -1,13 +1,5 @@
-#**THE README**
+# The Assistant
 
-###*All of this work was by me, Reese.*
+**Note:** This repository won't be updated.
 
-
-**This is important!!!**
-
-Please make sure that you will not go crazy and destroy your computer while using this.
-
-**That is important!!!**
-
-
-*Thank you for listening to the name and reading this.*
+The Assistant is an interactive console game, in which you have an Assistant who constantly annoys you.
